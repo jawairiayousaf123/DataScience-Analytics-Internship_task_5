@@ -49,5 +49,5 @@ Evaluating the feature coefficients sorted by predictive importance values yield
 
 ## 📁 Repository File Structure
 * `bank-full.csv` - Complete production source dataset containing 45,211 interactions.
-* `task_5.ipynb` - Comment-supported Jupyter Notebook documenting all cleaning scripts, visual distributions, classification metrics, and importance plots.
+* `Personal_Loan_Prediction.ipynb` - Comment-supported Jupyter Notebook documenting all cleaning scripts, visual distributions, classification metrics, and importance plots.
 * `README.md` - Executive summary documentation.
