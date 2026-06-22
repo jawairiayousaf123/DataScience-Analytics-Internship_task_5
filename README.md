@@ -5,7 +5,7 @@ The primary objective of this project is to build an explanatory predictive mode
 
 ---
 
-## 🛠️ Your Approach & Methodology
+## 🛠️ Approach & Methodology
 
 The repository implements a structured, end-to-end data science and machine learning pipeline:
 
